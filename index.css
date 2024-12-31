@@ -4,13 +4,14 @@
 }
 body{
     text-align: center;
-    background-color: blanchedalmond;
-    background-image: url(https://us.123rf.com/450wm/surgay/surgay1812/surgay181202329/112977791-yellow-plastic-crosses-and-a-toe-and-a-ruled-field-for-playing-tic-tac-toe-on-a-blue-background.jpg?ver=6);
-    background-position: center;
+    background-image: linear-gradient(to right ,#fbc2eb,#a6c1ee);
+     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    height:98vh;
 }
 h1{
+    margin-top: 2vh;
     font-size: 50px;
     /* background-color:rgb(137, 111, 141); */
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -53,5 +54,5 @@ button{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-weight: bold;
   text-align: center;
-  margin-left:31em;
+  margin-left:98vh;
 }
